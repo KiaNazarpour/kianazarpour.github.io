@@ -2,15 +2,14 @@ title:            Kia Nazarpour's site
 description:      Welcome to my site.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 url:              //KiaNazarpour.github.io
-#http://localhost:5000
-#https://jponttuset.github.io
+#https://KiaNazarpour.github.io
 disqus_shortname: KiaNazarpour
 
 # Owner/author information
 owner:
   name:           Kia Nazarpour
   avatar:         KN.png
-  bio:            An Iranian living in Scotland
+  bio:            An Iranian living in Scotland, the second most beautiful country in the world
   email:          kianoush.nazarpour@newcastle.ac.uk
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter: KiaNazarpour
