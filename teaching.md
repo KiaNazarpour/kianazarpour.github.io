@@ -8,6 +8,4 @@ comments: false
 ---
 
 
-### Teaching
-
-To appear
+### To appear

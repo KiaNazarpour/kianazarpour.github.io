@@ -8,6 +8,4 @@ comments: false
 ---
 
 
-### Research
-
-To appear
+### To appear
