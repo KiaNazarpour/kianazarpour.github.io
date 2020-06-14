@@ -4,7 +4,7 @@ title: Me in a Nutshell
 description: "Kia Nazarpour's website"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
-  feature: trees.jpg
+  feature: mountain.jpg
 ---
 
 I am an academic at <a href="https://www.ncl.ac.uk/" target="_blank">Newcastle University</a> 
