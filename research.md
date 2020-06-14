@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /code/
-title: Some Code I've Written
-tags: [code]
+permalink: /research/
+title: Research
+tags: [research]
 modified: 14-06-2020
 comments: false
 ---
