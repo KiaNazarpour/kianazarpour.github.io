@@ -7,5 +7,5 @@ image:
   feature: trees.jpg
 ---
 
-I am an academic at <a href="https://research.google.com" target="_blank">Newcastle University</a> 
+I am an academic at <a href="https://www.ncl.ac.uk/" target="_blank">Newcastle University</a> 
 and lead the <a href="http://www.intellsensing.com" target="_blank">Intelligent Sensing Laboratory</a>.
