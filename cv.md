@@ -7,5 +7,5 @@ modified: 14-06-2020
 comments: false
 ---
 
-You can download my <a href="" target="_blank">full CV</a>.
+You can download my <p><a href="" target="_blank">full CV</a>.</p>
 
