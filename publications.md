@@ -7,4 +7,4 @@ modified: 14-06-2020
 comments: false
 ---
 
-You can also browse my Google Scholar <a href="https://scholar.google.es/citations?hl=en&pli=1&user=ZEtKYf8AAAAJ" target="_blank">profile</a>.
+You can also browse my Google Scholar <p><a href="https://scholar.google.es/citations?hl=en&pli=1&user=ZEtKYf8AAAAJ" target="_blank">profile</a>.</p>
