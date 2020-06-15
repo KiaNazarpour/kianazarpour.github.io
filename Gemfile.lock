@@ -72,7 +72,12 @@ GEM
       ffi (~> 1.9)
     terminal-table (1.8.0)
       unicode-display_width (~> 1.1, >= 1.1.1)
+    thread_safe (0.3.6)
     titlecase (0.1.1)
+    tzinfo (1.2.7)
+      thread_safe (~> 0.1)
+    tzinfo-data (1.2020.1)
+      tzinfo (>= 1.0.0)
     unicode-display_width (1.7.0)
 
 PLATFORMS
@@ -84,6 +89,7 @@ DEPENDENCIES
   jekyll-sitemap
   octopress (~> 3.0.0.rc.12)
   rouge
+  tzinfo-data
 
 BUNDLED WITH
    2.1.4
