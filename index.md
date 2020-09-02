@@ -7,5 +7,5 @@ image:
   feature: mountain.jpg
 ---
 
-I am an academic at <a href="https://www.ncl.ac.uk/" target="_blank">Newcastle University</a>. 
-I lead the <a href="http://www.intellsensing.com" target="_blank">Intelligent Sensing Laboratory</a>.
+I am an academic at <a href="https://www.ed.ac.uk/informatics" target="_blank">School of Informatics</a>, <a href="https://www.ed.ac.uk/" target="_blank">The University of Edinburgh</a>.
+
