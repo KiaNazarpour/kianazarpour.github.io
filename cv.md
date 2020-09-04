@@ -6,6 +6,3 @@ tags: [about]
 modified: 14-06-2020
 comments: false
 ---
-
-<p align="left"> You can download my <a href="" target="_blank">full CV</a>.</p>
-
