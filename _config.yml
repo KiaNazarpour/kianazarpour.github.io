@@ -10,7 +10,7 @@ owner:
   name:           Kia Nazarpour
   avatar:         KN.png
   bio:            An Iranian living in Scotland, the second most beautiful country in the world
-  email:          kianoush.nazarpour@newcastle.ac.uk
+  email:          kianoush.nazarpour@ed.ac.uk
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter: KiaNazarpour
   linkedin: KiaNazarpour
@@ -32,8 +32,7 @@ links:
     url: /research/
   - title: Publications
     url: /publications/
-  - title: Teaching
-    url: /teaching/
+
 
 
 
