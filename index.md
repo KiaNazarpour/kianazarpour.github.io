@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title: Kia Nazarpour
 description: "Kia Nazarpour's website"
 tags: [Jekyll, theme, responsive, blog, template]
