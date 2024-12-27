@@ -1,6 +1,6 @@
 ---
 layout: home2
-title: TEST
+title: Kia Nazarpour
 description: "Kia Nazarpour's website"
 tags: [Jekyll, theme, responsive, blog, template]
 ---
