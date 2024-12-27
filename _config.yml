@@ -13,21 +13,7 @@ owner:
   google_scholar: ZEtKYf8AAAAJ
   github: KiaNazarpour
 
-
-# Links to include in top navigation
-# For external links add external: true
-#links:
-#  - title: CV
-#    url: /cv/
-#  - title: Research
-#    url: /research/
-#    url: /publications/
-#  - title: Vacancies
-#    url: /vacancies/
-    
-
-
-
+  
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/London
 future:      true
