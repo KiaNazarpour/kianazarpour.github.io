@@ -20,16 +20,13 @@ tags: [Jekyll, theme, responsive, blog, template]
             text-align: center;
         }
         section {
-             margin: 20px auto;
+            margin: 20px auto;
             padding: 20px;
             max-width: 800px;
             border: 1px solid #ddd;
             border-radius: 8px;
             background-color: #fff;
             box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-            display: flex;
-            align-items: center;
-            gap: 20px;
         }
         h2 {
             color: #333;
