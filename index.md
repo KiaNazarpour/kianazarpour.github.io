@@ -5,7 +5,6 @@ description: "Kia Nazarpour's website"
 tags: [Jekyll, theme, responsive, blog, template]
 ---
 
-<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -32,12 +31,6 @@ tags: [Jekyll, theme, responsive, blog, template]
             align-items: center;
             gap: 20px;
         }
-        section img {
-            width: 80px;
-            height: auto;
-            border-radius: 8px;
-            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
-        }
         h2 {
             color: #333;
         }
@@ -57,34 +50,30 @@ tags: [Jekyll, theme, responsive, blog, template]
 </header>
 
 <section>
-    <img src="images/UoE.png" alt="University of Edinburgh Logo">
     <h2>University of Edinburgh</h2>
-    <p>
-        I am Professor of Digital Health at 
+    <p> I am Professor of Digital Health at 
         <a href="https://www.ed.ac.uk/informatics" target="_blank">School of Informatics</a>, 
-        <a href="https://www.ed.ac.uk/" target="_blank">The University of Edinburgh</a>.
+        <a href="https://www.ed.ac.uk/" target="_blank">The University of Edinburgh</a>. I am also the Director of <a href="https://mover.ed.ac.uk" target="_blank">Edinburgh Movement and Rehabilitation (MoveR) hub</a>. At the MoveR webpages, you can find more about our research at the University of Efinburgh.
     </p>
-    <p>
-        I am also the Director of 
-        <a href="https://mover.ed.ac.uk" target="_blank">Edinburgh Movement and Rehabilitation (MoveR) hub</a>.
+    <br>
+    <p> For an up-to-date list of publication, please visit my <a href="https://scholar.google.com/citations?hl=en&user=ZEtKYf8AAAAJ&view_op=list_works&sortby=pubdate" target="_blank">Google Scholar profile</a> 
     </p>
 </section>
 
 <section>
     <h2>Neuranics</h2>
     <p>
-        At <a href="https://neuranics.com" target="_blank">Neuranics</a>, I focus on advancing the Technology Readiness Level (TRL) of sensors, turning them into solutions, licensing intellectual property (IP), and supplying sensors.
+        I am co-founder of <a href="https://neuranics.com" target="_blank">Neuranics</a>, which is the first joint spin-out between the universities of Edinburgh and Glasgow. </p>
+    <br>
+    <p> At Neuranics, I serve as the Chief Strategy Officer, where I lead the development and execution of strategic initiatives. My focus is on driving innovation, scaling our TMR sensor solutions to market readiness, and building partnerships that align with our mission to deliver cutting-edge solution.
     </p>
 </section>
 
 <section>
     <h2>Rebel Bionics</h2>
     <p>
-        At <a href="https://rebelbionics.com" target="_blank">Rebel Bionics</a>, I am working on innovative radar and AI solutions aimed at redefining industry standards in non-care-focused applications.
-    </p>
+        I am co-founder of At <a href="https://rebelbionics.com" target="_blank">REBEL Bionics</a>, which is an upper-limb prosthetics company dedicated to disrupting the prosthetics industry. For far too long upper limb prosthetics manufacturers have focused on features over function, larger than life promises, and mainly serving a population that has a variety of options. At REBEL, we work with all stakehoders to build a prosthesis that is fit for purpose.</p>
 </section>
 
 </body>
-</html>
-
 
