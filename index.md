@@ -42,10 +42,6 @@ tags: [Jekyll, theme, responsive, blog, template]
 </head>
 <body>
 
-<header>
-    <h1>My Professional Profiles</h1>
-</header>
-
 <section>
     <h2>University of Edinburgh</h2>
     <p style="padding-bottom: 20px;"> I am Professor of Digital Health at 
